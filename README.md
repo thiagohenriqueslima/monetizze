@@ -1,5 +1,5 @@
-# Monetizze
-Processo Seletivo - Back End PHP
+# Sorteio
+Sistema para geração de jogos e sorteio de dezenas com valores entre 1 e 60.
 
 ### Descrição
 Desenvolvimento de uma classe para realização de sorteios. A classe possibilita a geração de jogos com 6, 7, 8, 9 ou 10 dezenas únicas, geradas aleatoriamente, com valores entre 1 e 60.
